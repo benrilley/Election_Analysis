@@ -47,7 +47,7 @@ for candidate_name in candidate_votes:
     # 4. Print the candidate name and percentage of votes.
     #  To do: print out each candidate's name, vote count, and percentage of
     # votes to the terminal.
-    print(f"{candidate_name}: received {vote_percentage}% of the vote.")
+    #print(f"{candidate_name}: received {vote_percentage}% of the vote.")
 # Winning Candidate and Winning Count Tracker
 winning_candidate = ' '
 winning_count = 0
