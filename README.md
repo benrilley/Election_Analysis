@@ -26,5 +26,7 @@ The analysis of the election show that: - There were x votes cast in the electio
   - Diana DeGette who received 73.8% of the vote and 272,892 votes.
   
  ## Challenge Overview 
+ The Challenge was to sort raw election data into a short concise 3 line table that clearly states candidate, number of votes received and percentage of total votes. 
  
- ## Challenge Summary
+ ## Challenge Summary 
+ This was an extremely difficult challenge for me. I had to learn on the fly with the help of our great teachers, aides and fellow classmates really most of what I was doing wrong. It took hours of work and while I don't think I got it down 100% I am extremely proud of what I've managed to put together. The limitations of this code are endless. You can use this, obviously to sort election data, but taking it further you can use it to find what music charts the highest in a given set of states, counties, cities even countries. You can use it to find what movie theaters had the highest influx of viewers for specific movies to organize a weekend re-release. It was really cool to work on and have my brain think of other apploications as I was doing the work!
